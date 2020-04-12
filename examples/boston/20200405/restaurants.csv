@@ -1,0 +1,9 @@
+code,name,max_days_per_week,max_meals_breakfast,max_meals_lunch,max_meals_dinner
+PG,Pagu,7,,600,500
+LD,Little Donkey,7,200,700,500
+MM,Mei Mei Restaurant,3,100,150,100
+PO,Porto,5,,200,
+FC,Flour Cafe,6,,300,100
+CS,Cafe Sushi,2,,,100
+SU,Suya,7,,1000,1000
+IG,Iggy's Bakery,7,,200,
