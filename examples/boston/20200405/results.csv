@@ -2,30 +2,30 @@ code,name,priority_rank,region,zone,breakfast_mon,breakfast_tues,breakfast_wed,b
 2,BIDMC - West Campus,1,Longwood,1,,,,,,,,PO,FC,PG,PO,PG,,,,,,,,,
 3,BIDMC - East Campus,1,Longwood,1,,,,,,,,PO,FC,PG,PO,PG,,,,,,,,,
 4,Brigham and Women's Hospital - ED,1,Longwood,1,,,,,,,,,,PO,,,,LD,,,CS,,,,PG
-15,Whittier Street Health Center,1,Longwood,1,,,,,,,,FC,FC,,PO,,,,,,,,,,
+15,Whittier Street Health Center,2,Longwood,1,,,,,,,,FC,FC,,PO,,,,,,,,,,
 18,Boston Children's Hospital - ED,1,Longwood,1,,,,,,,,,,,,,,,,LD,,PG,,,
 21,BIDMC - ICU West,1,Longwood,1,,,,,,,,,,,,,,,,LD,,PG,,,
 22,BIDMC - ICU East,1,Longwood,1,,,,,,,,,,,,,,,,LD,,PG,,,
 23,Dana Farber Cancer Institute - Inpatient PAs,1,Longwood,1,,,,,,,,,FC,,PO,,,LD,,,,,,,
 8,Carney Hospital - ED,1,Dorchester/Mattapan,2,,,,,,,,,,,,,,,PG,CS,FC,LD,MM,FC,
-9,Mattapan Community Health Center,1,Dorchester/Mattapan,2,,,,,,,,FC,,FC,,MM,,,,,,,,,
-11,Dot House Health Dorchester,1,Dorchester/Mattapan,2,,,,,,,,FC,,FC,,MM,,,,,,,,,
-13,Upham's Corner Health Center,1,Dorchester/Mattapan,2,,,,,,,,,PO,FC,FC,,,,,,,,,,
-16,Codman Square Health Center,1,Dorchester/Mattapan,2,,,,,,,,,PO,,FC,MM,,,,,,,,,
+9,Mattapan Community Health Center,2,Dorchester/Mattapan,2,,,,,,,,FC,,FC,,MM,,,,,,,,,
+11,Dot House Health Dorchester,2,Dorchester/Mattapan,2,,,,,,,,FC,,FC,,MM,,,,,,,,,
+13,Upham's Corner Health Center,2,Dorchester/Mattapan,2,,,,,,,,,PO,FC,FC,,,,,,,,,,
+16,Codman Square Health Center,2,Dorchester/Mattapan,2,,,,,,,,,PO,,FC,MM,,,,,,,,,
 5,Brigham and Women's - Faulkner ED,1,Roxbury / Jamaica Plain,2,,,,,,,,,,PO,,,,LD,,,PG,,,,PG
 12,VA Medical Center - West Roxbury,1,Roxbury / Jamaica Plain,2,,,,,,,,,,,,,MM,MM,PG,LD,PG,FC,,,
 19,Southern Jamaica Plain Health Center (part of Brigham & Women's),1,Roxbury / Jamaica Plain,2,,,,,,,,FC,,PO,,FC,,,,,,,,,
 31,BWH - Faulkner 7N Covid Unit,1,Roxbury / Jamaica Plain,2,,,,,,,,,,PO,,,,LD,,,PG,,,,PG
 32,BWH - Faulkner ICU,1,Roxbury / Jamaica Plain,2,,,,,,,,,,PO,,,,LD,,,PG,,,,PG
-7,Boston Healthcare for the Homeless,1,South Boston,2,,,,,,,,LD,PO,PG,LD,FC,MM,MM,FC,FC,FC,LD,PG,MM,PG
-30,South Boston Community Health Center,1,South Boston,2,,,,,,,,LD,,FC,,FC,,,,,,,,,
-20,Charles River Community Health,1,Cambridge / Brighton,3,,,,,,,,LD,,PG,,PG,,,,,,,,,
+7,Boston Healthcare for the Homeless,2,South Boston,2,,,,,,,,LD,PO,PG,LD,FC,MM,MM,FC,FC,FC,LD,PG,MM,PG
+30,South Boston Community Health Center,2,South Boston,2,,,,,,,,LD,,FC,,FC,,,,,,,,,
+20,Charles River Community Health,2,Cambridge / Brighton,3,,,,,,,,LD,,PG,,PG,,,,,,,,,
 24,Cambridge Health Alliance - Cambridge Hospital,1,Cambridge / Brighton,3,,,,,,,,,,,,PG,,,,,,,,,
 26,Cambridge Health Alliance - Somerville Hospital,1,Cambridge / Brighton,3,,,,,,,,,,,,PO,,,,,,,,,
 6,Massachusetts General Hospital - ICU,1,East / North,3,,,,,,,,,,,,,,,,,,,,MM,MM
-10,East Boston Neighborhood Health Center,1,East / North,3,,,,,,,,,LD,,LD,,,MM,,,,,,,MM
-14,BIDMC - Chelsea,1,East / North,3,,,,,,,,,LD,,LD,,,,,,,,,,
+10,East Boston Neighborhood Health Center,2,East / North,3,,,,,,,,,LD,,LD,,,MM,,,,,,,MM
+14,BIDMC - Chelsea,2,East / North,3,,,,,,,,,LD,,LD,,,,,,,,,,
 25,Cambridge Health Alliance - Everett Hospital,1,East / North,3,,,,,,,,,LD,,,,,,,,,,,,
 27,Massachusetts General Hospital - ED,1,East / North,3,,,,,,,,,,,,,,,FC,FC,CS,LD,PG,,
 29,Tufts Medical Center,1,East / North,3,,,,,,,,PO,LD,FC,LD,FC,,,,,,,,,
-28,Boston Medical Center,1,,,,,,,,,,LD,PG,LD,PG,LD,,,,,,,,PG,LD
+28,Boston Medical Center,1,,2,,,,,,,,LD,PG,LD,PG,LD,,,,,,,,PG,LD

@@ -3,7 +3,7 @@ import pandas as pd
 
 def parse_from_restaurants_csv(filename: str):
     df = pd.read_csv(filename)
-    if df.shape[1] != 6:
+    if df.shape[1] != 24:
         raise ValueError('Wrong shape for input CSV for restaurants')
 
     return df
