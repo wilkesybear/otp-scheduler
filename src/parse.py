@@ -1,5 +1,3 @@
-import csv
-from src.types import Restaurant, Restaurants, Hospital, Hospitals, HospitalAssignment, Results
 import pandas as pd
 
 

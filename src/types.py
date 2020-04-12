@@ -1,3 +1,4 @@
+# WARNING: I'm not using any of these! Moved to pandas after I made this file...
 from typing import NamedTuple, List, Tuple
 
 
