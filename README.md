@@ -14,7 +14,7 @@ python main.py --c 1000 --restaurants examples/boston/20200405/restaurants.csv -
 ```
 
 ### Notebook
-The more-interesting stuff is in the [notebook](/src/notebooks/Sandbox.ipynb), if you want to play around there! To run this, install jupyter notebook (it's `notebook` in `requirements.txt`. At the **root** of the project, run
+The more-interesting stuff is in the [notebook](/src/notebooks/validator.ipynb), if you want to play around there! To run this, install jupyter notebook (it's `notebook` in `requirements.txt`. At the **root** of the project, run
 
 `➜  ~/src/otp-scheduler git:(master) ✗ jupyter notebook`
 
