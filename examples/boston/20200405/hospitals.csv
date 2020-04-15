@@ -1,14 +1,14 @@
 code,name,priority_rank,region,zone,breakfast_mon,breakfast_tues,breakfast_wed,breakfast_thurs,breakfast_fri,breakfast_sat,breakfast_sun,lunch_mon,lunch_tues,lunch_wed,lunch_thurs,lunch_fri,lunch_sat,lunch_sun,dinner_mon,dinner_tues,dinner_wed,dinner_thurs,dinner_fri,dinner_sat,dinner_sun
 2,BIDMC - West Campus,1,Longwood,1,,,,,,,,60,60,60,60,60,60,60,,,,,,,
 3,BIDMC - East Campus,1,Longwood,1,,,,,,,,30,30,30,30,30,6,6,,,,,,,
-4,Brigham and Women's Hospital - ED,1,Longwood,1,,,,,,,,,,100,,,,100,,,100,,,,100
+4,Brigham and Women's Hospital - ED,1,Longwood,1,,,,,,,,,,,,,,,,,,,,,
 15,Whittier Street Health Center,2,Longwood,1,,,,,,,,150,150,150,150,150,,,,,,,,,
 18,Boston Children's Hospital - ED,1,Longwood,1,,,,,,,,,,,,,,,60,60,60,60,60,,
 21,BIDMC - ICU West,1,Longwood,1,,,,,,,,,,,,,,,,60,,60,,,
 22,BIDMC - ICU East,1,Longwood,1,,,,,,,,,,,,,,,,20,,20,,,
 23,Dana Farber Cancer Institute - Inpatient PAs,1,Longwood,1,,,,,,,,30,30,30,30,30,20,20,,,,,,,
-5,Brigham and Women's - Faulkner ED,1,Roxbury / Jamaica Plain,2,,,,,,,,,,45,,,,45,,,45,,,,45
-7,Boston Healthcare for the Homeless,2,South Boston,2,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,12
+5,Brigham and Women's - Faulkner ED,1,Roxbury / Jamaica Plain,2,,,,,,,,,,,,,,,,,,,,,
+7,Boston Healthcare for the Homeless,2,South Boston,2,,,,,,,,,,,,,,,,,,,,,
 8,Carney Hospital - ED,1,Dorchester/Mattapan,2,,,,,,,,,,,,,,,100,100,100,100,100,100,100
 9,Mattapan Community Health Center,2,Dorchester/Mattapan,2,,,,,,,,35,,35,,35,,,,,,,,,
 11,Dot House Health Dorchester,2,Dorchester/Mattapan,2,,,,,,,,25,25,25,25,25,,,,,,,,,
@@ -28,4 +28,4 @@ code,name,priority_rank,region,zone,breakfast_mon,breakfast_tues,breakfast_wed,b
 26,Cambridge Health Alliance - Somerville Hospital,1,Cambridge / Brighton,3,,,,,,,,30,30,30,30,30,30,30,,,,,,,
 27,Massachusetts General Hospital - ED,1,East / North,3,,,,,,,,,,,,,,,65,65,65,65,65,,
 29,Tufts Medical Center,1,East / North,3,,,,,,,,50,50,50,50,50,,,54,54,54,54,54,,
-28,Boston Medical Center,1,South Boston,2,,,,,,,,600,600,600,600,600,300,300,475,475,475,475,475,300,300
+28,Boston Medical Center,1,South Boston,2,,,,,,,,,,,,,300,300,475,475,475,475,475,,
