@@ -1,0 +1,13 @@
+code,name,max_days_per_week,breakfast_mon,breakfast_tues,breakfast_wed,breakfast_thurs,breakfast_fri,breakfast_sat,breakfast_sun,lunch_mon,lunch_tues,lunch_wed,lunch_thurs,lunch_fri,lunch_sat,lunch_sun,dinner_mon,dinner_tues,dinner_wed,dinner_thurs,dinner_fri,dinner_sat,dinner_sun
+PG,Pagu,7,200,200,200,200,200,200,200,700,700,700,700,700,700,700,700,700,700,700,700,700,700
+LD,Little Donkey,7,200,200,200,200,200,200,200,700,700,700,700,700,700,700,500,500,500,500,500,500,500
+MM,Mei Mei Restaurant,3,,,,,,,,,,,,,,,,,,,120,120,120
+PO,Porto,5,,,,,,,,300,300,300,300,300,,,,,,,,,
+FC,Flour Cafe,5,,,,,,,,400,400,400,400,400,,,100,100,100,100,100,100,
+CS,Cafe Sushi,2,,,,,,,,,,,,,,,,100,100,100,,,
+SU,Suya,7,,,,,,,,400,400,400,400,400,400,400,400,400,400,400,400,400,400
+IG,Iggy's Bakery,7,,,,,,,,200,200,200,200,200,200,200,,,,,,,
+MD,MIDA ,7,,,,,,,,400,400,400,400,400,400,400,400,400,400,400,400,400,400
+SH,Shojo & China Pearl,7,300,300,300,300,300,300,300,300,300,300,300,300,300,300,300,300,300,300,300,300,300
+BB,Banyan Bar + Refuge (The Gallows Group),7,400,400,400,400,400,400,400,400,400,400,400,400,400,400,400,400,400,400,400,400,400
+ME,Mae Asian Eatery,4,,,,,,,,,100,100,100,100,100,,,100,100,100,,,
