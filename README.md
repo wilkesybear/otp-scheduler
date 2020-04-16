@@ -4,13 +4,10 @@
 
 _I'll fill this out in much more detail when there's a bit more progress._
 
-For now, 
+For setup, all you need to do is install the pip requirements
 ```sh
 # manage your requirements however you want. I'm using pyenv-virtualenv
 pip install -r requirements.txt
-
-# this only prints out dataframes of your CSV files for now
-python main.py --c 1000 --restaurants examples/boston/20200405/restaurants.csv --hospitals examples/boston/20200405/hospitals.csv
 ```
 
 ### Notebook
