@@ -1,0 +1,44 @@
+,,restaurant,meal,vip
+,,orders_fulfilled,orders_requested,vip_orders
+priority_rank,hospital,,,
+1,BIDMC - East Campus,7,7,7.0
+1,BIDMC - ICU East,2,2,2.0
+1,BIDMC - ICU West,2,2,2.0
+1,BIDMC - West Campus,7,7,7.0
+1,BWH - Faulkner 7N Covid Unit,14,14,14.0
+1,BWH - Faulkner ICU,14,14,14.0
+1,Boston Children's Hospital - ED,5,5,0.0
+1,Boston Healthcare for the Homeless - Albany Street,14,14,14.0
+1,Boston Healthcare for the Homeless - Tents,17,21,14.0
+1,Boston Medical Center,8,14,7.0
+1,Brigham & Women's Hospital (COVID ICUs),14,21,14.0
+1,Brigham and Women's - Faulkner ED,4,4,4.0
+1,Brigham and Women's Hospital - ED,4,4,4.0
+1,Cambridge Health Alliance - Cambridge Hospital,7,7,0.0
+1,Cambridge Health Alliance - Everett Hospital,6,7,0.0
+1,Cambridge Health Alliance - Somerville Hospital,7,7,0.0
+1,Carney Hospital - ED,7,7,7.0
+1,Dana Farber Cancer Institute - Inpatient PAs,7,7,0.0
+1,Massachusetts General Hospital - Central,7,7,7.0
+1,Massachusetts General Hospital - ED,5,5,5.0
+1,Massachusetts General Hospital - ICU,2,2,2.0
+1,Massachusetts General Hospital - PICU,10,10,10.0
+1,Mt. Auburn Hospital,1,1,0.0
+1,Newton Wellesley Hospital,8,14,0.0
+1,Steward St. Elizabeth's Medical Center,7,10,0.0
+1,Tufts Medical Center,10,10,10.0
+1,VA Medical Center - West Roxbury,6,6,0.0
+2,BIDMC - Chelsea,4,5,0.0
+2,Charles River Community Health,4,5,0.0
+2,Codman Square Health Center - Site 1,4,5,0.0
+2,Codman Square Health Center - Site 2,4,5,0.0
+2,Dimock Center,4,4,0.0
+2,Dot House Health Dorchester,4,5,0.0
+2,East Boston Neighborhood Health Center,6,6,0.0
+2,Harvard Street Neighborhood Health Center,4,5,0.0
+2,Mattapan Community Health Center,3,3,0.0
+2,North End Waterfront Health Center,3,4,0.0
+2,South Boston Community Health Center,5,5,5.0
+2,Southern Jamaica Plain Health Center (part of Brigham & Women's),4,5,0.0
+2,Upham's Corner Health Center,3,6,0.0
+2,Whittier Street Health Center,4,5,0.0

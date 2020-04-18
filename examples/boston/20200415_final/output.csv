@@ -1,0 +1,42 @@
+name,code,priority_rank,region,zone,breakfast_mon,breakfast_mon_rest,breakfast_tues,breakfast_tues_rest,breakfast_wed,breakfast_wed_rest,breakfast_thurs,breakfast_thurs_rest,breakfast_fri,breakfast_fri_rest,breakfast_sat,breakfast_sat_rest,breakfast_sun,breakfast_sun_rest,lunch_mon,lunch_mon_rest,lunch_tues,lunch_tues_rest,lunch_wed,lunch_wed_rest,lunch_thurs,lunch_thurs_rest,lunch_fri,lunch_fri_rest,lunch_sat,lunch_sat_rest,lunch_sun,lunch_sun_rest,dinner_mon,dinner_mon_rest,dinner_tues,dinner_tues_rest,dinner_wed,dinner_wed_rest,dinner_thurs,dinner_thurs_rest,dinner_fri,dinner_fri_rest,dinner_sat,dinner_sat_rest,dinner_sun,dinner_sun_rest
+BIDMC - West Campus,2,1,Longwood / Back Bay,1,,,,,,,,,,,,,,,45.0,RT,45.0,ME,45.0,ME,45.0,ME,45.0,ME,45.0,IG,45.0,IG,,,,,,,,,,,,,,
+BIDMC - East Campus,3,1,Longwood / Back Bay,1,,,,,,,,,,,,,,,30.0,RT,30.0,ME,30.0,ME,30.0,ME,30.0,ME,6.0,IG,6.0,IG,,,,,,,,,,,,,,
+Brigham and Women's Hospital - ED,4,1,Longwood / Back Bay,1,,,,,,,,,,,,,,,,,,,100.0,RT,,,,,,,100.0,IG,,,,,100.0,FC,,,,,,,100.0,MM
+Boston Children's Hospital - ED,18,1,Longwood / Back Bay,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,60.0,SH,60.0,SH,60.0,SH,60.0,SH,60.0,SH,,,,
+BIDMC - ICU West,21,1,Longwood / Back Bay,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,60.0,FC,,,60.0,FC,,,,,,
+BIDMC - ICU East,22,1,Longwood / Back Bay,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,20.0,FC,,,20.0,FC,,,,,,
+Dana Farber Cancer Institute - Inpatient PAs,23,1,Longwood / Back Bay,1,,,,,,,,,,,,,,,30.0,RT,30.0,BB,30.0,SU,30.0,PG,30.0,SU,20.0,IG,20.0,IG,,,,,,,,,,,,,,
+Brigham & Women's Hospital (COVID ICUs),36,1,Longwood / Back Bay,1,210.0,XXX,210.0,XXX,210.0,XXX,210.0,XXX,210.0,XXX,200.0,XXX,200.0,XXX,210.0,PO,210.0,PO,210.0,PO,210.0,PO,210.0,PO,200.0,SH,200.0,SH,210.0,SH,210.0,SH,210.0,SH,210.0,SH,210.0,SH,200.0,SH,200.0,SH
+Whittier Street Health Center,15,2,Longwood / Back Bay,1,,,,,,,,,,,,,,,150.0,XXX,150.0,BB,150.0,SU,150.0,PG,150.0,SU,,,,,,,,,,,,,,,,,,
+Brigham and Women's - Faulkner ED,5,1,Roxbury / Jamaica Plain,2,,,,,,,,,,,,,,,,,,,45.0,IG,,,,,,,45.0,MD,,,,,45.0,CS,,,,,,,45.0,MD
+Boston Healthcare for the Homeless - Tents,7,1,South Boston,2,12.0,LD,12.0,BB,12.0,LD,12.0,XXX,12.0,XXX,12.0,XXX,12.0,XXX,12.0,IG,12.0,IG,12.0,IG,12.0,IG,12.0,RT,12.0,MD,12.0,MD,12.0,FC,12.0,CS,12.0,CS,12.0,ME,12.0,FC,12.0,MM,12.0,MD
+Carney Hospital - ED,8,1,Dorchester/Mattapan,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.0,MD,100.0,ME,100.0,ME,100.0,MD,100.0,MM,100.0,MM,100.0,MD
+VA Medical Center - West Roxbury,12,1,Roxbury / Jamaica Plain,2,,,,,,,,,,,,,,,,,,,,,,,,,80.0,SU,80.0,BB,80.0,MD,80.0,BB,80.0,MD,80.0,MD,,,,,,
+Boston Medical Center,28,1,South Boston,2,,,,,,,,,,,,,,,400.0,FC,400.0,FC,400.0,FC,400.0,FC,400.0,FC,150.0,SU,150.0,XXX,400.0,XXX,400.0,XXX,400.0,XXX,400.0,XXX,400.0,XXX,150.0,MD,150.0,MD
+BWH - Faulkner 7N Covid Unit,31,1,Roxbury / Jamaica Plain,2,,,,,,,,,,,,,,,18.0,IG,18.0,IG,18.0,IG,18.0,IG,18.0,RT,18.0,MD,18.0,MD,34.0,FC,34.0,CS,34.0,CS,34.0,ME,34.0,FC,34.0,MD,34.0,BB
+BWH - Faulkner ICU,32,1,Roxbury / Jamaica Plain,2,,,,,,,,,,,,,,,17.0,IG,17.0,IG,17.0,IG,17.0,IG,17.0,RT,17.0,MD,17.0,MD,15.0,FC,15.0,CS,15.0,MD,15.0,ME,15.0,FC,15.0,MD,15.0,BB
+Boston Healthcare for the Homeless - Albany Street,39,1,South Boston,2,,,,,,,,,,,,,,,115.0,IG,115.0,IG,115.0,SH,115.0,IG,115.0,IG,50.0,MD,50.0,BB,20.0,FC,20.0,CS,20.0,MD,20.0,ME,20.0,FC,20.0,MD,20.0,BB
+Mattapan Community Health Center,9,2,Dorchester/Mattapan,2,,,,,,,,,,,,,,,35.0,PG,,,35.0,BB,,,35.0,IG,,,,,,,,,,,,,,,,,,
+Dot House Health Dorchester,11,2,Dorchester/Mattapan,2,,,,,,,,,,,,,,,25.0,SH,25.0,XXX,25.0,SH,25.0,SH,25.0,IG,,,,,,,,,,,,,,,,,,
+Upham's Corner Health Center,13,2,Dorchester/Mattapan,2,,,,,,,,,70.0,BB,70.0,LD,,,70.0,PG,70.0,XXX,70.0,XXX,70.0,XXX,,,,,,,,,,,,,,,,,,,,
+Codman Square Health Center - Site 1,16,2,Dorchester/Mattapan,2,,,,,,,,,,,,,,,120.0,SH,120.0,SH,120.0,BB,120.0,XXX,120.0,BB,,,,,,,,,,,,,,,,,,
+Southern Jamaica Plain Health Center (part of Brigham & Women's),19,2,Roxbury / Jamaica Plain,2,,,,,,,,,,,,,,,30.0,PG,30.0,XXX,30.0,BB,30.0,SH,30.0,BB,,,,,,,,,,,,,,,,,,
+South Boston Community Health Center,30,2,South Boston,2,,,,,,,,,,,,,,,70.0,SH,70.0,SH,70.0,SH,70.0,SH,70.0,RT,,,,,,,,,,,,,,,,,,
+Harvard Street Neighborhood Health Center,35,2,Dorchester/Mattapan,2,,,,,,,,,,,,,,,30.0,PG,30.0,XXX,30.0,SH,30.0,SH,30.0,BB,,,,,,,,,,,,,,,,,,
+Dimock Center,40,2,Roxbury / Jamaica Plain,2,,,,,15.0,LD,,,,,,,,,,,20.0,SH,,,,,,,10.0,SU,,,,,,,,,20.0,MD,,,,,,
+Codman Square Health Center - Site 2,41,2,Dorchester/Mattapan,2,,,,,,,,,,,,,,,25.0,SH,25.0,SH,25.0,BB,25.0,XXX,25.0,IG,,,,,,,,,,,,,,,,,,
+Massachusetts General Hospital - ICU,6,1,East / North,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,140.0,BB,140.0,LD
+Cambridge Health Alliance - Everett Hospital,25,1,East / North,3,,,,,,,,,,,,,,,150.0,MD,150.0,MD,150.0,MD,150.0,BB,150.0,SH,75.0,XXX,75.0,SU,,,,,,,,,,,,,,
+Massachusetts General Hospital - ED,27,1,East / North,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,65.0,BB,65.0,MD,65.0,BB,65.0,BB,65.0,MD,,,,
+Tufts Medical Center,29,1,East / North,3,,,,,,,,,,,,,,,50.0,MD,50.0,MD,50.0,MD,50.0,MD,50.0,SH,,,,,54.0,BB,54.0,MD,54.0,BB,54.0,BB,54.0,MD,,,,
+Massachusetts General Hospital - PICU,34,1,East / North,3,,,30.0,LD,,,,,30.0,LD,,,20.0,LD,30.0,MD,,,30.0,MD,30.0,MD,30.0,SH,,,,,,,20.0,MD,20.0,BB,,,,,20.0,BB,,
+Massachusetts General Hospital - Central,37,1,East / North,3,,,,,,,,,,,,,,,,,500.0,SU,,,500.0,SU,,,300.0,BB,,,500.0,LD,,,500.0,LD,,,500.0,LD,,,300.0,LD
+East Boston Neighborhood Health Center,10,2,East / North,3,,,,,,,,,,,,,,,,,100.0,MD,,,100.0,MD,,,50.0,BB,50.0,SU,,,,,,,,,,,25.0,BB,25.0,LD
+BIDMC - Chelsea,14,2,East / North,3,,,,,,,,,,,,,,,12.0,MD,12.0,MD,12.0,XXX,12.0,MD,12.0,SH,,,,,,,,,,,,,,,,,,
+North End Waterfront Health Center,38,2,East / North,3,,,,,,,,,,,,,,,85.0,LD,85.0,XXX,85.0,MD,85.0,BB,,,,,,,,,,,,,,,,,,,,
+Cambridge Health Alliance - Cambridge Hospital,24,1,Cambridge / Brighton,4,,,,,,,,,,,,,,,115.0,BB,115.0,PG,115.0,PG,115.0,LD,115.0,PG,115.0,LD,115.0,LD,,,,,,,,,,,,,,
+Cambridge Health Alliance - Somerville Hospital,26,1,Cambridge / Brighton,4,,,,,,,,,,,,,,,30.0,BB,30.0,PG,30.0,PG,30.0,LD,30.0,PG,30.0,LD,30.0,LD,,,,,,,,,,,,,,
+Mt. Auburn Hospital,42,1,Cambridge / Brighton,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,75.0,SU,,,,,,,,
+Newton Wellesley Hospital,33,1,Allston / Newton,5,,,,,,,,,,,,,,,50.0,SU,50.0,LD,50.0,LD,50.0,XXX,50.0,MD,50.0,PG,50.0,PG,50.0,SU,50.0,LD,50.0,XXX,50.0,XXX,50.0,XXX,50.0,XXX,50.0,XXX
+Steward St. Elizabeth's Medical Center,43,1,Allston / Newton,5,,,,,,,,,,,,,,,50.0,SU,50.0,LD,50.0,LD,50.0,XXX,50.0,MD,,,,,50.0,SU,50.0,LD,50.0,PG,50.0,XXX,50.0,XXX,,,,
+Charles River Community Health,20,2,Allston / Newton,5,,,,,,,,,,,,,,,24.0,SU,24.0,LD,24.0,LD,24.0,XXX,24.0,MD,,,,,,,,,,,,,,,,,,
