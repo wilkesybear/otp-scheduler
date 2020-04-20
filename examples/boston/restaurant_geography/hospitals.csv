@@ -1,0 +1,40 @@
+code,name,priority_rank,region,zone,breakfast_mon,breakfast_tues,breakfast_wed,breakfast_thurs,breakfast_fri,breakfast_sat,breakfast_sun,lunch_mon,lunch_tues,lunch_wed,lunch_thurs,lunch_fri,lunch_sat,lunch_sun,dinner_mon,dinner_tues,dinner_wed,dinner_thurs,dinner_fri,dinner_sat,dinner_sun
+2,BIDMC - West Campus,1,Longwood / Back Bay,1,,,,,,,,45,45,45,45,45,45,45,,,,,,,
+3,BIDMC - East Campus,1,Longwood / Back Bay,1,,,,,,,,30,30,30,30,30,6,6,,,,,,,
+4,Brigham and Women's Hospital - ED,1,Longwood / Back Bay,1,,,,,,,,,,100,,,,100,,,100,,,,100
+15,Whittier Street Health Center,2,Longwood / Back Bay,1,,,,,,,,150,150,150,150,150,,,,,,,,,
+18,Boston Children's Hospital - ED,1,Longwood / Back Bay,1,,,,,,,,,,,,,,,60,60,60,60,60,,
+21,BIDMC - ICU West,1,Longwood / Back Bay,1,,,,,,,,,,,,,,,,60,,60,,,
+22,BIDMC - ICU East,1,Longwood / Back Bay,1,,,,,,,,,,,,,,,,20,,20,,,
+23,Dana Farber Cancer Institute - Inpatient PAs,1,Longwood / Back Bay,1,,,,,,,,30,30,30,30,30,20,20,,,,,,,
+36,Brigham & Women's Hospital (COVID ICUs),1,Longwood / Back Bay,1,,,,,,,,210,210,210,210,210,200,200,210,210,210,210,210,200,200
+8,Carney Hospital - ED,1,Dorchester/Mattapan,2,,,,,,,,,,,,,,,100,100,100,100,100,100,100
+9,Mattapan Community Health Center,2,Dorchester/Mattapan,2,,,,,,,,35,,35,,35,,,,,,,,,
+11,Dot House Health Dorchester,2,Dorchester/Mattapan,2,,,,,,,,25,25,25,25,25,,,,,,,,,
+13,Upham's Corner Health Center,2,Dorchester/Mattapan,2,,,,,,,,70,70,70,70,,,,,,,,,,
+16,Codman Square Health Center - Site 1,2,Dorchester/Mattapan,2,,,,,,,,120,120,120,120,120,,,,,,,,,
+35,Harvard Street Neighborhood Health Center,2,Dorchester/Mattapan,2,,,,,,,,30,30,30,30,30,,,,,,,,,
+41,Codman Square Health Center - Site 2,2,Dorchester/Mattapan,2,,,,,,,,25,25,25,25,25,,,,,,,,,
+5,Brigham and Women's - Faulkner ED,1,Roxbury / Jamaica Plain,2,,,,,,,,,,45,,,,45,,,45,,,,45
+12,VA Medical Center - West Roxbury,1,Roxbury / Jamaica Plain,2,,,,,,,,,,,,,80,80,80,80,80,80,,,
+19,Southern Jamaica Plain Health Center (part of Brigham & Women's),2,Roxbury / Jamaica Plain,2,,,,,,,,30,30,30,30,30,,,,,,,,,
+31,BWH - Faulkner 7N Covid Unit,1,Roxbury / Jamaica Plain,2,,,,,,,,18,18,18,18,18,18,18,34,34,34,34,34,34,34
+32,BWH - Faulkner ICU,1,Roxbury / Jamaica Plain,2,,,,,,,,17,17,17,17,17,17,17,15,15,15,15,15,15,15
+40,Dimock Center,2,Roxbury / Jamaica Plain,2,,,,,,,,,20,,,,10,,,,,20,,,
+7,Boston Healthcare for the Homeless - Tents,1,South Boston,2,,,,,,,,12,12,12,12,12,12,12,12,12,12,12,12,12,12
+30,South Boston Community Health Center,2,South Boston,2,,,,,,,,70,70,70,70,70,,,,,,,,,
+28,Boston Medical Center,1,South Boston,2,,,,,,,,400,400,400,400,400,150,150,400,400,400,400,400,150,150
+39,Boston Healthcare for the Homeless - Albany Street,1,South Boston,2,,,,,,,,115,115,115,115,115,50,50,20,20,20,20,20,20,20
+10,East Boston Neighborhood Health Center,2,East / North,3,,,,,,,,,100,,100,,50,50,,,,,,25,25
+14,BIDMC - Chelsea,2,East / North,3,,,,,,,,12,12,12,12,12,,,,,,,,,
+25,Cambridge Health Alliance - Everett Hospital,1,East / North,3,,,,,,,,150,150,150,150,150,75,75,,,,,,,
+29,Tufts Medical Center,1,East / North,3,,,,,,,,50,50,50,50,50,,,54,54,54,54,54,,
+34,Massachusetts General Hospital - PICU,1,East / North,3,,,,,,,,30,,30,30,30,,,,20,20,,,20,
+37,Massachusetts General Hospital - Central,1,East / North,3,,,,,,,,,500,,500,,300,,500,,500,,500,,300
+38,North End Waterfront Health Center,2,East / North,3,,,,,,,,85,85,85,85,,,,,,,,,,
+24,Cambridge Health Alliance - Cambridge Hospital,1,Cambridge / Brighton,4,,,,,,,,115,115,115,115,115,115,115,,,,,,,
+26,Cambridge Health Alliance - Somerville Hospital,1,Cambridge / Brighton,4,,,,,,,,30,30,30,30,30,30,30,,,,,,,
+42,Mt. Auburn Hospital,1,Cambridge / Brighton,4,,,,,,,,,,,,,,,,,75,,,,
+20,Charles River Community Health,2,Allston / Newton,5,,,,,,,,24,24,24,24,24,,,,,,,,,
+33,Newton Wellesley Hospital,1,Allston / Newton,5,,,,,,,,50,50,50,50,50,50,50,50,50,50,50,50,50,50
+43,Steward St. Elizabeth's Medical Center,1,Allston / Newton,5,,,,,,,,50,50,50,50,50,,,50,50,50,50,50,,

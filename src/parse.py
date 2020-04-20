@@ -3,10 +3,20 @@ import pandas as pd
 
 def parse_from_restaurants_csv(filename: str):
     df = pd.read_csv(filename)
-    if df.shape[1] != 24:
+    rows, columns = df.shape
+    zones = columns - 25
+    if df.shape[1] < 25:
         raise ValueError('Wrong shape for input CSV for restaurants')
 
-    return df
+    z_col_names = df.columns[25:]
+    for i, name in enumerate(z_col_names):
+        exp = 'zone_' + str(i + 1)
+        if name != exp:
+            raise ValueError('Expected zone column name {} but instead got {}'.format(
+                exp, name
+            ))
+
+    return df, zones
 
 
 def parse_from_hospital_requests_csv(filename: str):
