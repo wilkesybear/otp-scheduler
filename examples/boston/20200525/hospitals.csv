@@ -1,0 +1,55 @@
+code,name,priority_rank,region,zone,breakfast_mon,breakfast_tues,breakfast_wed,breakfast_thurs,breakfast_fri,breakfast_sat,breakfast_sun,lunch_mon,lunch_tues,lunch_wed,lunch_thurs,lunch_fri,lunch_sat,lunch_sun,dinner_mon,dinner_tues,dinner_wed,dinner_thurs,dinner_fri,dinner_sat,dinner_sun
+4,Brigham and Women's Hospital - ED,3,Longwood,1,,,,,,,,,,100,,,,100,,,100,,,,100
+15,Whittier Street Health Center,3,Longwood,1,,,,,,,,,175,175,175,175,,,,,,,,,
+18,Boston Children's Hospital - ED,3,Longwood,1,,,,,,,,,,,,,,,60,60,60,60,60,,
+23,Dana Farber Cancer Institute - Inpatient PAs,2,Longwood,1,,,,,,,,20,30,30,30,30,20,20,,,,,,,
+36,Brigham & Women's Hospital (COVID ICUs),3,Longwood,1,,,,,,,,135,135,135,135,135,135,135,135,135,135,135,135,135,135
+53,Beth Israel Deaconess Medical Center - East Campus,3,Longwood,1,,55,55,,55,,,,50,50,50,50,6,6,,,140,,,,
+54,Beth Israel Deaconess Medical Center - West Campus,3,Longwood,1,,150,150,150,150,,,,180,180,180,180,50,50,,100,100,100,100,50,50
+60,Brigham & Women's Hospital - Primary Care Center,3,Longwood,1,,,,,,,,,45,45,45,45,,,,,,,,,
+8,Carney Hospital - ED,1,Dorchester/Mattapan,2,,,,,,,,,135,135,135,135,135,135,,135,135,135,135,135,135
+9,Mattapan Community Health Center,2,Dorchester/Mattapan,2,,,,,,,,,,35,,35,,,,,,,,,
+11,Dot House Health Dorchester,2,Dorchester/Mattapan,2,,,,,,,,,25,25,25,25,,,,,,,,,
+13,Upham's Corner Health Center,2,Dorchester/Mattapan,2,,,,,70,,,,70,70,70,,,,,,,,,,
+16,Codman Square Health Center - Site 1,2,Dorchester/Mattapan,2,,,,,,,,,150,150,150,150,30,30,,,,,,,
+35,Harvard Street Neighborhood Health Center,2,Dorchester/Mattapan,2,,,,,,,,,30,30,30,30,,,,,,,,,
+41,Codman Square Health Center - Site 2,2,Dorchester/Mattapan,2,,,,,,,,,30,30,30,30,10,10,,,,,,,
+44,Bowdoin Street Health Center,2,Dorchester/Mattapan,2,,,,,,,,,,60,,60,,,,,,,,,
+50,Pine Street Inn Holy Family Shelter,2,Dorchester/Mattapan,2,,3,3,3,3,3,3,,,,,,,,,4,4,4,4,4,4
+55,Harbor Health Services Inc.,2,Dorchester/Mattapan,2,,,,,,,,,,25,,25,,,,,,,,,
+67,Harbor Health Elder Service Plan,3,Dorchester/Mattapan,2,,,,,,,,,,8,,,,,,,5,,,,
+5,BWH - Faulkner ED,2,Roxbury / Jamaica Plain,2,,,,,,,,,,45,,,,45,,,45,,,,45
+12,VA Medical Center - West Roxbury,1,Roxbury / Jamaica Plain,2,,,,,,,,,,,,,80,80,,80,80,80,,,
+19,Southern Jamaica Plain Health Center (part of Brigham & Women's),2,Roxbury / Jamaica Plain,2,,,,,,,,,40,40,40,40,,,,,,,,,
+31,BWH - Faulkner 7N Covid Unit,2,Roxbury / Jamaica Plain,2,,,,,,,,20,20,20,20,20,20,20,20,20,20,20,20,20,20
+32,BWH - Faulkner ICU,2,Roxbury / Jamaica Plain,2,,,,,,,,,30,30,30,30,30,30,,25,25,25,25,25,25
+40,Dimock Center,2,Roxbury / Jamaica Plain,2,,,15,,,,,,20,,,20,10,,,,,20,,,
+49,Pine Street Inn Shattuck Shelter,2,Roxbury / Jamaica Plain,2,,4,4,4,4,4,4,,21,21,21,21,21,21,,7,7,7,7,7,7
+59,BWH - Faulkner 6N,2,Roxbury / Jamaica Plain,2,,,,,,,,,30,30,30,30,30,30,,,,,,,
+61,Brookside Community Health Center,2,Roxbury / Jamaica Plain,2,,,,,,,,,100,100,100,100,,,,,,,,,
+66,Hope House Addiction Services,2,Roxbury / Jamaica Plain,2,,24,24,24,24,24,24,,,,,,,,24,24,24,24,24,24,24
+7,Boston Healthcare for the Homeless - Engagement Center,1,South End / Southie,3,,,,,,,,12,12,12,,12,,,,,,,,,
+28,Boston Medical Center,3,South End / Southie,3,,,,,,,,,400,400,400,400,150,150,,400,400,400,400,150,150
+29,Tufts Medical Center,2,South End / Southie,3,,,,,,,,,50,50,50,50,,,,54,54,54,54,,
+30,South Boston Community Health Center,3,South End / Southie,3,,,,,,,,,70,70,70,70,,,,,,,,,
+39,Boston Healthcare for the Homeless - Albany Street,1,South End / Southie,3,,,,,,,,115,115,115,115,115,50,50,20,20,20,20,20,20,20
+45,South End Community Health Center,3,South End / Southie,3,,,,,,,,,60,60,60,60,,,,,,,,,
+47,Pine Street Inn - Site 1,2,South End / Southie,3,,19,19,19,19,20,20,,15,15,15,15,20,20,,20,20,20,20,20,20
+48,Pine Street Inn - Site 2,2,South End / Southie,3,,7,7,7,7,7,7,,10,10,10,10,10,10,,20,20,20,20,20,20
+56,Tufts Medical Center - Cardiothoracic ICU,2,South End / Southie,3,,,,,,,,,50,50,50,50,,,,50,50,50,50,,
+64,Boston Healthcare for the Homeless - Southampton Shelter,2,South End / Southie,3,,,,,,,,5,5,5,5,5,,,5,5,5,5,5,,
+10,East Boston Neighborhood Health Center,3,Downtown / East,4,,,,,,,,,100,,100,,50,50,,,,,,,
+14,BIDMC - Chelsea,3,Downtown / East,4,,,,,,15,15,,38,38,38,38,,,,,,,,,
+25,Cambridge Health Alliance - Everett Hospital,2,Downtown / East,4,,,,,,,,150,150,150,150,150,75,75,75,75,75,75,75,65,65
+34,Massachusetts General Hospital - PICU,3,Downtown / East,4,,30,,,30,,20,,,30,30,30,,,,20,20,,,20,
+37,Massachusetts General Hospital - Central,3,Downtown / East,4,,,,,,,,,,,,,300,,500,,500,,500,,
+38,North End Waterfront Health Center,3,Downtown / East,4,,,,,,,,,85,85,85,,,,,,,,,,
+46,Boston EMS - South End,2,Downtown / East,4,,,,,,,,,25,25,25,25,,,,,,,,,
+57,MGH Chelsea HealthCare Center,3,Downtown / East,4,,,,,,,,,,,,,110,,,,,,,,
+20,Charles River Community Health,3,Cambridge / West,5,,,,,,,,,42,42,42,42,,,,,,,,,
+24,Cambridge Health Alliance - Cambridge Hospital,2,Cambridge / West,5,,,,,,,,120,120,120,120,120,75,75,75,75,75,75,75,65,65
+42,Mt. Auburn Hospital,2,Cambridge / West,5,,,,,,,,,,75,,,,,,,,,,,
+62,Saint Vincent Hospital,1,Worcester,6,,,,,,,,,,,,,,,,100,100,100,100,,
+63,Good Samaritan Medical Center,1,Brockton,7,,,,,,,,,50,50,50,50,50,50,,,,,,,
+65,Brockton Neighborhood Health Center,2,Brockton,7,,,,,,,,,200,200,200,200,,,,,,,,,
+66,Signature Healthcare Brockton Hospital,1,Brockton,7,,,,,,,,,,,125,125,,,,,,,,,

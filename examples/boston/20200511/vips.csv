@@ -1,0 +1,48 @@
+code,name,priority_rank,region,zone,breakfast_mon,breakfast_tues,breakfast_wed,breakfast_thurs,breakfast_fri,breakfast_sat,breakfast_sun,lunch_mon,lunch_tues,lunch_wed,lunch_thurs,lunch_fri,lunch_sat,lunch_sun,dinner_mon,dinner_tues,dinner_wed,dinner_thurs,dinner_fri,dinner_sat,dinner_sun
+53,Beth Israel Deaconess Medical Center - East Campus,1,Longwood / Back Bay,1,,,,,,,,50,50,50,50,50,6,6,,,140,,,,
+54,Beth Israel Deaconess Medical Center - West Campus,1,Longwood,1,,,,,,,,180,180,180,180,180,50,50,,100,,100,,,
+18,Boston Children's Hospital - ED,1,Longwood,1,,,,,,,,,,,,,,,60,60,60,60,60,,
+36,Brigham & Women's Hospital (COVID ICUs),1,Longwood,1,,,,,,,,210,210,210,210,210,200,200,210,210,210,210,210,200,200
+52,Brigham and Women's Hospital - Central,1,Longwood,1,,,,,,,,,,,,,850,850,,,,,,650,650
+4,Brigham and Women's Hospital - ED,1,Longwood,1,,,,,,,,,,100,,,,100,,,100,,,,100
+23,Dana Farber Cancer Institute - Inpatient PAs,1,Longwood,1,,,,,,,,,,,,,,,,,,,,,
+15,Whittier Street Health Center,2,Longwood,1,,,,,,,,,,,,,,,,,,,,,
+44,Bowdoin Street Health Center,2,Dorchester/Mattapan,2,,,,,,,,,,,,,,,,,,,,,
+31,BWH - Faulkner 7N Covid Unit,1,Roxbury / Jamaica Plain,2,,,,,,,,,,,,,,,,,,,,,
+5,BWH - Faulkner ED,1,Roxbury / Jamaica Plain,2,,,,,,,,,,45,,,,45,,,45,,,,45
+51,BWH - Faulkner Hospital Central,1,Roxbury / Jamaica Plain,2,,,,,,,,,,,,,100,100,,,,,,,
+32,BWH - Faulkner ICU,1,Roxbury / Jamaica Plain,2,,,,,,,,30,30,30,30,30,30,30,25,25,25,25,25,25,25
+8,Carney Hospital - ED,1,Dorchester/Mattapan,2,,,,,,,,,,,,,,,,,,,,,
+16,Codman Square Health Center - Site 1,2,Dorchester/Mattapan,2,,,,,,,,,,,,,,,,,,,,,
+41,Codman Square Health Center - Site 2,2,Dorchester/Mattapan,2,,,,,,,,,,,,,,,,,,,,,
+40,Dimock Center,2,Roxbury / Jamaica Plain,2,,,,,,,,,,,,,,,,,,,,,
+11,Dot House Health Dorchester,2,Dorchester/Mattapan,2,,,,,,,,,,,,,,,,,,,,,
+55,Harbor Health Services Inc.,2,Dorchester/Mattapan,2,,,,,,,,,,,,,,,,,,,,,
+35,Harvard Street Neighborhood Health Center,2,Dorchester/Mattapan,2,,,,,,,,,,,,,,,,,,,,,
+9,Mattapan Community Health Center,2,Dorchester/Mattapan,2,,,,,,,,,,,,,,,,,,,,,
+50,Pine Street Inn Holy Family Shelter,2,Dorchester/Mattapan,2,,,,,,,,,,,,,,,,,,,,,
+49,Pine Street Inn Shattuck Shelter,2,Roxbury / Jamaica Plain,2,,,,,,,,,,,,,,,,,,,,,
+19,Southern Jamaica Plain Health Center (part of Brigham & Women's),2,Roxbury / Jamaica Plain,2,,,,,,,,,,,,,,,,,,,,,
+13,Upham's Corner Health Center,2,Dorchester/Mattapan,2,,,,,,,,,,,,,,,,,,,,,
+12,VA Medical Center - West Roxbury,1,Roxbury / Jamaica Plain,2,,,,,,,,,,,,,,,,,,,,,
+39,Boston Healthcare for the Homeless - Albany Street,1,South End / Southie,3,,,,,,,,115,115,115,115,115,50,50,20,20,20,20,20,20,20
+7,Boston Healthcare for the Homeless - Tents,1,South End / Southie,3,,,,,,,,12,12,12,12,12,12,12,12,12,12,12,12,12,12
+28,Boston Medical Center,1,South End / Southie,3,,,,,,,,400,400,400,400,400,150,150,400,400,400,400,400,150,150
+47,Pine Street Inn - Site 1,2,South End / Southie,3,,,,,,,,,,,,,,,,,,,,,
+48,Pine Street Inn - Site 2,2,South End / Southie,3,,,,,,,,,,,,,,,,,,,,,
+30,South Boston Community Health Center,2,South End / Southie,3,,,,,,,,,,,,,,,,,,,,,
+45,South End Community Health Center,2,South End / Southie,3,,,,,,,,,,,,,,,,,,,,,
+29,Tufts Medical Center,1,South End / Southie,3,,,,,,,,,,,,,,,,,,,,,
+56,Tufts Medical Center - Cardiothoracic ICU,1,South End / Southie,3,,,,,,,,,,,,,,,,,,,,,
+14,BIDMC - Chelsea,2,Downtown / East,4,,,,,,,,,,,,,,,,,,,,,
+46,Boston EMS - South End,1,Downtown / East,4,,,,,,,,25,20,25,33,45,,,,,,,,,
+25,Cambridge Health Alliance - Everett Hospital,1,Downtown / East,4,,,,,,,,,,,,,,,,,,,,,
+10,East Boston Neighborhood Health Center,2,Downtown / East,4,,,,,,,,,,,,,,,,,,,,,
+37,Massachusetts General Hospital - Central,1,Downtown / East,4,,,,,,,,,500,,500,,300,,500,,500,,500,,300
+34,Massachusetts General Hospital - PICU,1,Downtown / East,4,,,,,,,,30,,30,30,30,,,,20,20,,,20,
+57,MGH Chelsea HealthCare Center,2,Downtown / East,4,,,,,,,,,,,,,110,,,,,,,,
+38,North End Waterfront Health Center,2,Downtown / East,4,,,,,,,,,,,,,,,,,,,,,
+24,Cambridge Health Alliance - Cambridge Hospital,1,Cambridge / West,5,,,,,,,,120,120,120,120,120,75,75,75,75,75,75,75,65,65
+20,Charles River Community Health,2,Cambridge / West,5,,,,,,,,,,,,,,,,,,,,,
+42,Mt. Auburn Hospital,1,Cambridge / West,5,,,,,,,,,,,,,,,,,,,,,
+33,Newton Wellesley Hospital,1,Cambridge / West,5,,,,,,,,,,,,,,,,,,,,,
