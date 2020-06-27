@@ -1,0 +1,43 @@
+code,name,priority_rank,region,zone,breakfast_mon,breakfast_tues,breakfast_wed,breakfast_thurs,breakfast_fri,breakfast_sat,breakfast_sun,lunch_mon,lunch_tues,lunch_wed,lunch_thurs,lunch_fri,lunch_sat,lunch_sun,dinner_mon,dinner_tues,dinner_wed,dinner_thurs,dinner_fri,dinner_sat,dinner_sun
+15,Whittier Street Health Center,3,Longwood,1,,,,,,,,175,175,175,175,175,,,,,,,,,
+18,Boston Children's Hospital - ED,3,Longwood,1,,,,,,,,,,,,,,,60,60,60,60,60,,
+53,Beth Israel Deaconess Medical Center - East Campus,3,Longwood,1,55,,55,,55,,,65,65,65,65,65,8,8,,,140,,,,
+54,Beth Israel Deaconess Medical Center - West Campus,3,Longwood,1,,80,,80,,,,70,70,70,70,70,50,50,100,100,100,100,100,50,50
+9,Mattapan Community Health Center,2,Dorchester/Mattapan,2,,,,,,,,35,,35,,35,,,,,,,,,
+11,Dot House Health Dorchester,2,Dorchester/Mattapan,2,,,,,,,,25,25,25,25,25,,,,,,,,,
+12,VA Medical Center - West Roxbury,1,Roxbury / Jamaica Plain,2,,,,,,,,80,80,80,80,80,80,80,,,,,,,
+13,Upham's Corner Health Center,2,Dorchester/Mattapan,2,,,,,80,,,80,80,80,80,,,,,,,,,,
+16,Codman Square Health Center - Site 1,2,Dorchester/Mattapan,2,,,,,,,,150,150,150,150,150,40,40,,,,,,,
+19,Southern Jamaica Plain Health Center (part of Brigham & Women's),2,Roxbury / Jamaica Plain,2,,,,,,,,40,40,40,40,40,,,,,,,,,
+40,Dimock Center,2,Roxbury / Jamaica Plain,2,,,15,,,,,,20,,,20,10,,,,,20,,,
+41,Codman Square Health Center - Site 2,2,Dorchester/Mattapan,2,,,,,,,,30,30,30,30,30,10,10,,,,,,,
+44,Bowdoin Street Health Center,2,Dorchester/Mattapan,2,,,,,,,,60,,60,,60,,,,,,,,,
+49,Pine Street Inn Shattuck Shelter,2,Roxbury / Jamaica Plain,2,4,4,4,4,4,4,4,21,21,21,21,21,21,21,7,7,7,7,7,7,7
+50,Pine Street Inn Holy Family Shelter,2,Dorchester/Mattapan,2,3,3,3,3,3,3,3,,,,,,,,4,4,4,4,4,4,4
+61,Brookside Community Health Center,2,Roxbury / Jamaica Plain,2,,,,,,,,100,100,100,100,100,,,,,,,,,
+66,Hope House Addiction Services,2,Roxbury / Jamaica Plain,2,24,24,24,24,24,24,24,,,,,,,,24,24,24,24,24,24,24
+67,Bournewood Hospital,5,Roxbury / Jamaica Plain,2,,,,,,,,100,100,100,100,100,,,50,50,50,50,50,,
+7,Boston Healthcare for the Homeless - Engagement Center,1,South End / Southie,3,,,,,,,,12,12,12,,12,,,,,,,,,
+29,Tufts Medical Center,2,South End / Southie,3,,,,,,,,50,50,50,50,50,,,54,54,54,54,54,,
+30,South Boston Community Health Center,3,South End / Southie,3,,,,,,,,70,70,70,70,70,,,,,,,,,
+39,Boston Healthcare for the Homeless - Albany Street,1,South End / Southie,3,,,,,,,,115,115,115,115,115,50,50,20,20,20,20,20,20,20
+45,South End Community Health Center,3,South End / Southie,3,,,,,,,,60,60,60,60,60,,,,,,,,,
+47,Pine Street Inn - Site 1,2,South End / Southie,3,19,19,19,19,19,20,20,15,15,15,15,15,20,20,20,20,20,20,20,20,20
+48,Pine Street Inn - Site 2,2,South End / Southie,3,7,7,7,7,7,7,7,10,10,10,10,10,10,10,20,20,20,20,20,20,20
+56,Tufts Medical Center - Cardiothoracic ICU,2,South End / Southie,3,,,,,,,,50,50,50,50,50,,,50,50,50,50,50,,
+64,Boston Healthcare for the Homeless - Southampton Shelter,2,South End / Southie,3,,,,,,,,5,5,5,5,5,,,5,5,5,5,5,,
+10,East Boston Neighborhood Health Center,3,Downtown / East,4,,,,,,,,,100,,100,,50,50,,,,,,,
+14,BIDMC - Chelsea,3,Downtown / East,4,,,,,,,,40,40,40,40,40,,,,,,,,,
+25,Cambridge Health Alliance - Everett Hospital,2,5/6/2020: try to stay in 15-20 min window; 5/13: over email - change breakfast to 8am; 6/3: lunchtime delivery increased from 50 to 65; 6/10: remove Tuesday breakfast,4,,,,,,,,150,,150,,150,,,,,,,,,
+34,Massachusetts General Hospital - PICU,3,Downtown / East,4,,30,,,30,,20,30,,30,30,30,,,,20,20,,,20,
+38,North End Waterfront Health Center,3,Downtown / East,4,,,,,,,,100,100,100,100,,,,,,,,,,
+57,MGH Chelsea HealthCare Center,2,Downtown / East,4,,,,,,,,,,,,,65,,,,,,,,
+24,Cambridge Health Alliance - Cambridge Hospital,2,Cambridge / West,5,,,,,,,,150,,150,,150,,,,,,,,,
+24,Cambridge Health Alliance - Cambridge Hospital,3,Cambridge / West,5,,,,,,,,150,,150,,150,,,,,,,,,
+62,Saint Vincent Hospital,1,Worcester,6,,,,,,,,100,100,100,100,100,,,,,,,,,
+62,Saint Vincent Hospital,4,Worcester,6,,,,,,,,100,100,100,100,100,,,,,,,,,
+63,Good Samaritan Medical Center,1,Brockton,7,,,,,,,,50,50,50,50,50,50,50,,,,,,,
+65,Brockton Neighborhood Health Center,2,Brockton,7,,,,,,,,240,240,240,240,240,,,,,,,,,
+63,Good Samaritan Medical Center,4,Brockton,7,,,,,,,,50,50,50,50,50,50,50,,,,,,,
+65,Brockton Neighborhood Health Center,3,Brockton,7,,,,,,,,240,240,240,240,240,,,,,,,,,
+66,Signature Healthcare Brockton Hospital,4,Brockton,7,,,,,,,,,,100,100,,,,,,,,,,
